@@ -1,0 +1,5 @@
+2023-04-16 23:27:20 [main] INFO  toClone.CloningExercises - This is an info message Manhatan
+2023-04-16 23:27:20 [main] WARN  toClone.CloningExercises - This is a warning message
+2023-04-16 23:27:20 [main] ERROR toClone.CloningExercises - This is an error message
+java.lang.Exception: Something went wrong
+	at toClone.CloningExercises.main(CloningExercises.java:23) [bin/:?]
